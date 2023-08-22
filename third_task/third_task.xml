@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="third_task.xsd" orderid="007">
+    <firstname>Иван</firstname>
+    <lastname>Иванов</lastname>
+    <orderdate>2023-08-22</orderdate>
+    <deliverydate>2023-08-30</deliverydate>
+    <price>5000.00</price>
+    <boxcount>10</boxcount>
+    <mobile>+7-123-456-78-90</mobile>
+</order>

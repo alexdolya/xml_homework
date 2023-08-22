@@ -1,0 +1,17 @@
+<auto>
+    <manufacturer name="Audi">
+        <model>Q7</model>
+        <model>A4</model>
+        <model>A6</model>
+    </manufacturer>
+    <manufacturer name="BMW">
+        <model>X5</model>
+        <model>3 Series</model>
+        <model>5 Series</model>
+    </manufacturer>
+    <manufacturer name="Mercedes-Benz">
+        <model>C-Class</model>
+        <model>E-Class</model>
+        <model>S-Class</model>
+    </manufacturer>
+</auto>

@@ -1,0 +1,18 @@
+<school>
+    <school_info name="Школа №777" location="Саратов">
+        <teachers>
+            <teacher name="Иван Иванов" subject="Математика">
+                <students>
+                    <student name="Алексей Петров" grade="9" />
+                    <student name="Елена Смирнова" grade="10" />
+                </students>
+            </teacher>
+            <teacher name="Ольга Николаева" subject="Литература">
+                <students>
+                    <student name="Дмитрий Крылов" grade="11" />
+                    <student name="Анна Иванова" grade="9" />
+                </students>
+            </teacher>
+        </teachers>
+    </school_info>
+</school>
